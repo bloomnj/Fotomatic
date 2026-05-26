@@ -1,5 +1,7 @@
 # Fotomatic Landing Page
 
+Demo:  https://fotomatic.suntheory.net
+
 Fotomatic an offsite coding projected offered by Codecademy for their Full Stack Developer and Web-adjacent development tracks.  You are tasked with fixing a broken site according to a provided design spec.  In addition to fixing a Desktop version of the page, you must also fix the responsive Tablet and Mobile versions of the page as well.  This is a somewhat infamous project for a number of reasons.  The design spec, while detailed for the Desktop requirements, contains mistakes (including a pretty glaring copy/paste error) and ambiguities in the Tablet and Mobile sections.  The solution you can download is incomplete.  Finally, there used to be a Fotomatic forum you could go to if you had any questions.  This forum no longer exists.
 
 Despite these drawbacks, I consider the Fotomatic project to be one of Codecademy's best projects.  Why?  It simulates real issues you will encounter on an actual dev team.  Consider the drawbacks in respect to a corporate dev team that might inherit this project from another team --
@@ -33,7 +35,3 @@ This project contains a repaired version of the Fotomatic landing page. The orig
 ## Notes
 
 This respository contains both the original broken code (on a branch named "broken") and my fixes (in the "main" and "fixed") branches respectively.
-
-## Demo
-
-You can access a working demo of the fixes for Fotomatic at https://fotomatic.suntheory.net
